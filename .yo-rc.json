@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "PrismOakjob",
+    "packageName": "com.prism.oakjob",
+    "packageFolder": "com/prism/oakjob",
+    "serverPort": 8042,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "OWJmMWZhN2RhOTJhYTVlZmUwNjljZWM5YWE5YmVkZGRhMTRhNjFlNzU4OTVkMWU4MTc0YjA0ZjI1YjcxMTI1ZTI0MzRhZjU5YTZkNDBiMWNjMGM0ZmY1MmY0ZTM1NGJmMTg2Zjk1NDQ5YWYyNzMxMDE3ODYwMDE5ZTc4NmQwZDI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "fbg-system-account",
+  "repository-name": "Prism-Oakjob-Web"
+}
